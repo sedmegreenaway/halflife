@@ -1,3 +1,7 @@
+Half Life 1 SDK Utilities Linux Port
+======================
+The aim of this project is to port everything in the utils directory to linux. As of the time of writing, the only utility that has been ported so far is mdlviewer. Feel free to contribute, as I lack the experience to port some of these (such as studiomdl and sprgen).
+
 Half Life 1 SDK LICENSE
 ======================
 
